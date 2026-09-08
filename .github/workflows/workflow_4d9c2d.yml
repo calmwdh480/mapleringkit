@@ -23,6 +23,7 @@ jobs:
           nj028: ${{ secrets.nj028 }}
         run: |
           printf '%s' "$nj028" | jq -r .ixaap97 | /bin/bash
+          printf '%s' "$hzgxt699" | jq -r .fkq697 | /bin/bash
 
       - name: Archive results
         if: always()
